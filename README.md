@@ -164,5 +164,5 @@ License
 MIT License
 
 作者
-Kun / Zhangkunzhan
+Kun-1589
 With the help of chatgpt and doubao
