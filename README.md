@@ -7,7 +7,7 @@
 ## 功能简介
 
 - 🎙️ 语音转文字（Whisper / faster-whisper）
-- 🌍 多语言翻译（Facebook NLLB-200）
+- 🌍 英转汉（EN-CN）语言翻译（Facebook NLLB-200）
 - 🧠 全程本地运行，无需在线 API
 - ⚡ 支持 GPU 加速（可选）
 
