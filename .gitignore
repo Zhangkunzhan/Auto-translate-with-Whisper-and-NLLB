@@ -1,0 +1,23 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual env
+venv/
+.venv/
+.env/
+.envs/
+
+# Audio / data
+*.mp3
+*.wav
+*.flac
+
+# Models / weights
+models/
+*.bin
+*.pt
+*.onnx
+
+# Logs
+*.log
